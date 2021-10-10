@@ -1,0 +1,7 @@
+Edit Zosi arm firmware Firmware for NVR 
+
+Tools to examine arm internet of things images
+
+1. download image 
+2. use fdisk -u -l <image name> to determine type of image
+**3. use dd to extract image to files and folders
