@@ -1,0 +1,4 @@
+Disk image/rootfs-3520dv400: 9.41 MiB, 9870848 bytes, 19279 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
